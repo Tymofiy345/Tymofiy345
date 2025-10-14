@@ -3,7 +3,7 @@
 📍 Київ, Україна 
 
 Познайомився з аналітикою працюючи в SMM. Аналізував аудиторію і її залучення. Зрозумів, що аналітика - моя сфера
-[Telegram] https://t.me/Tymofiy1
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tymofiy1) 
 
 
 ## Hi there 👋
