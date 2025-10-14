@@ -1,8 +1,9 @@
-# Тимофій [Фамилия]  
+# Тимофій Хорольський
 📊 Junior Data Analyst  
 📍 Київ, Україна 
 
 Познайомився з аналітикою працюючи в SMM. Аналізував аудиторію і її залучення. Зрозумів, що аналітика - моя сфера
+
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tymofiy1) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/your_username)
