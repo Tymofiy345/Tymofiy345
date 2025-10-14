@@ -1,10 +1,9 @@
 # Тимофій [Фамилия]  
-📊 Junior / Middle Business Analyst  
-
+📊 Junior Data Analyst  
 📍 Київ, Україна 
 
-
-
+Познайомився з аналітикою працюючи в SMM. Аналізував аудиторію і її залучення. Зрозумів, що аналітика - моя сфера
+[Telegram] https://t.me/Tymofiy1
 
 
 ## Hi there 👋
