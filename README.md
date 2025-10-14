@@ -26,7 +26,7 @@
 
 | Назва | Інструменти |
 |:------|:-------------|
-| [E-commerce Funnel](./ecommerce-funnel) | BigQuery, Tableau |
+| [E-commerce Funnel](./E-commerce-Performance) | BigQuery, Tableau |
 
 ## Hi there 👋
 
