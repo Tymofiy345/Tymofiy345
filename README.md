@@ -6,7 +6,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tymofiy1) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/your_username)
-[![CV](https://img.shields.io/badge/CV-PDF-orange?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://example.com/your_cv.pdf)
+[![CV](https://img.shields.io/badge/CV-orange?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://example.com/your_cv.pdf)
 
 
 ## Hi there 👋
