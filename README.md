@@ -9,9 +9,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/your_username)
 [![CV](https://img.shields.io/badge/CV-orange?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://example.com/your_cv.pdf)
 
-Інструменти:
-
-## Tools & Technologies
+## Інструменти:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
