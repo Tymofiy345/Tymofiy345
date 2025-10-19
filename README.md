@@ -28,6 +28,8 @@
 |:------|:-------------|
 | [E-commerce Performance](https://github.com/Tymofiy345/E-commerce-Performance.git) | BigQuery, Tableau |
 | [Інтерактивний дашборд](https://github.com/Tymofiy345/Car-sales-trends.git) | Python, Dash, Plotly |
+| [Car-Price-Prediction](https://github.com/Tymofiy345/Car-Price-Prediction.git) | Python, Pandas, Sklearn |
+
 
 ## Hi there 👋
 
