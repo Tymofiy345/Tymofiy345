@@ -20,14 +20,14 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### Проекти:
+### Проєкти:
 
 | Назва | Інструменти |
 |:------|:-------------|
-| [E-commerce Performance](https://github.com/Tymofiy345/E-commerce-Performance.git) | BigQuery, Tableau |
+| [E-commerce Performance](https://github.com/Tymofiy345/Online-Retail-Dashboard.git) | SQL, Dbeaver, Tableau |
 | [Інтерактивний дашборд](https://github.com/Tymofiy345/Car-sales-trends.git) | Python, Dash, Plotly |
 | [Car-Price-Prediction](https://github.com/Tymofiy345/Car-Price-Prediction.git) | Python, Pandas, Sklearn |
-
+| [E-commerce Performance](https://github.com/Tymofiy345/E-commerce-Performance.git) | BigQuery, SQL, Tableau |
 
 ## Hi there 👋
 
