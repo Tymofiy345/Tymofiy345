@@ -4,7 +4,7 @@
 Познайомився з аналітикою працюючи в SMM. Аналізував аудиторію і її залучення. Зрозумів, що аналітика - моя сфера
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tymofiy1) 
-[![CV](https://img.shields.io/badge/CV-orange?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://example.com/your_cv.pdf)
+[![CV](https://img.shields.io/badge/CV-orange?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1M8Uc6PhmiRbB4cILVsfuPAyxOhFpTYka/view?usp=sharing)
 
 ### Інструменти:
 
